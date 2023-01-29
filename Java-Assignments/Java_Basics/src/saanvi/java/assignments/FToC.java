@@ -1,5 +1,11 @@
 package saanvi.java.assignments;
 
+/**
+ * https://www.metric-conversions.org/temperature/fahrenheit-to-celsius.htm
+ * 
+ * Implemented the fahrenheit and celcius using  link above
+ */
+
 import java.util.Scanner;
 
 public class FToC {
