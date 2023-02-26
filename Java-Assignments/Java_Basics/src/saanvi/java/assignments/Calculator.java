@@ -52,6 +52,7 @@ public class Calculator {
 			double num1 = input.nextDouble();
 			input = new Scanner(System.in);
 			double num2 = input.nextDouble();
+			
 			double remainder = num1 % num2; //giving a remainder of user's values
 			System.out.println("Quoitent of two numbers: " + remainder); //printing user's values
 		} else {
